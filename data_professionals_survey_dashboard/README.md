@@ -18,14 +18,20 @@ significantly ahead of Data Engineers at $65K and Data Analysts
 at $55K, with students and entry-level respondents averaging 
 just $26.5K.
 
+  <img src="screenshots/avg_salary.png" width="400">
+
 - **Python dominates as the preferred programming language** 
 across nearly all job titles, with R coming in as a distant 
 second — reinforcing Python's position as the industry standard 
 for data professionals.
 
+  <img src="screenshots/favorite_programming_language.png" width="400">
+
 - **Professionals are more satisfied with their work-life balance 
 than their salary** — scoring 5.74 vs 4.27 out of 10, suggesting 
 compensation remains a pain point across the industry.
+
+  <img src="screenshots/happiness_with_work_life_balance.png" width="300">      <img src="screenshots/happiness_with_salary.png" width="300">
 
 ## Tools Used
 Power BI Desktop
