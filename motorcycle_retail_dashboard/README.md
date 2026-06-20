@@ -18,7 +18,7 @@ analysis into a visual, interactive format.
 The business generated $29M in total revenue from 18,482 customers 
 across 28K orders and has a total of 130 products.
 
-<img src="motorcycle_retail_dashboard/screenshots/executive_summary.png" width="500">
+<img src="screenshots/executive_summary.png" width="500">
 
 
 ### Customer Analysis
@@ -28,7 +28,7 @@ at $20M. Average order value varies sharply by segment - VIP
 customers average $3K per order (53% of total), Regular customers 
 average $2K (34%), and New customers average $1K (12.38%).
 
-<img src="motorcycle_retail_dashboard/screenshots/customer_analysis.png" width="500">
+<img src="screenshots/customer_analysis.png" width="500">
 
 
 ### Product Analysis
@@ -39,7 +39,7 @@ of total revenue despite ranking second in units sold, since
 individual bikes carry a significantly higher price point than 
 accessories or clothing.
 
-<img src="motorcycle_retail_dashboard/screenshots/product_analysis.png" width="500">
+<img src="screenshots/product_analysis.png" width="500">
 
 ---
 
