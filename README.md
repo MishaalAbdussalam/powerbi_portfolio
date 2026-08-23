@@ -18,6 +18,14 @@ product performance across 18,482 customers and 130 products.
 
 [View Project](motorcycle_retail_dashboard/README.md)
 
+
+### 3. Power BI Data Modelling Project
+Rebuilt a 23-table nightmare data model into a clean 
+star/galaxy schema with 6 fact tables, 6 dimension tables, 
+and proper relationships throughout that is reliable, structured and ready for reporting.
+
+[View Project](data-modelling-project/README.md)
+
 ---
 
 ## Tools Used
