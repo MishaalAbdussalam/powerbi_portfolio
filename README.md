@@ -24,7 +24,7 @@ Rebuilt a 23-table nightmare data model into a clean
 star/galaxy schema with 6 fact tables, 6 dimension tables, 
 and proper relationships throughout that is reliable, structured and ready for reporting.
 
-[View Project](data-modelling-project/README.md)
+[View Project](data_modelling_project/README.md)
 
 ---
 
